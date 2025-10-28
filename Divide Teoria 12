@@ -1,0 +1,8 @@
+Teoria Semana 12 (martes)
+
+El tema trata sobre cómo el método de divide y vencerás se aplica en la búsqueda binaria, 
+un algoritmo que sirve para encontrar un dato dentro de una lista ordenada de forma rápida 
+y eficiente. A diferencia de la búsqueda lineal, que revisa cada elemento uno por uno, 
+la búsqueda binaria va dividiendo la lista en mitades hasta ubicar el valor buscado o confirmar que no está. 
+Gracias a este enfoque, el tiempo que tarda en encontrar un elemento crece muy poco aunque la lista sea muy grande, 
+lo que la hace mucho más rápida y útil cuando se trabaja con grandes cantidades de información.
