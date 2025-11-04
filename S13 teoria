@@ -1,0 +1,10 @@
+La presentación explica que la "recursividad" es una forma de resolver problemas haciendo que una 
+función se llame a sí misma hasta llegar a una condición que detiene el proceso, llamada **caso base**.
+Esta técnica permite dividir un problema grande en partes más pequeñas y parecidas entre sí, lo que facilita
+encontrar la solución paso a paso. También se menciona cómo funciona la **pila de llamadas**, que guarda las
+funciones activas mientras el programa se ejecuta, y se habla de la **recursividad indirecta**, donde varias 
+funciones se llaman entre sí. Además, se presenta el **backtracking**, una estrategia que prueba diferentes 
+opciones y retrocede cuando una no sirve, útil para problemas como laberintos o búsquedas. Finalmente, se 
+comparan la **recursión y la iteración**, señalando que aunque la recursión puede ser más fácil de entender 
+y escribir en algunos casos, la iteración suele ser más eficiente y usar menos memoria.
+
